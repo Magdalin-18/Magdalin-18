@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20&height=180&section=header&text=Magdalin%20Felicita%20J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Full%20Stack%20Developer&descAlignY=62&descSize=16" />
 
 <!-- TYPING HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Magdalin+%F0%9F%91%8B;Python+Full+Stack+Developer;Django+%7C+React+%7C+MySQL+Enthusiast;MCA+Student+%40+SRM+University;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=B57BFF&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Magdalin+%F0%9F%91%8B;Python+Full+Stack+Developer;Django+%7C+React+%7C+MySQL+Enthusiast;MCA+Student+%40+SRM+University;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -209,6 +209,6 @@ me.say_hi()
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Magdalin-18&color=70a5fd&style=flat-square)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20&height=120&section=footer&animation=twinkling" />
 
 </div>
