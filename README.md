@@ -23,7 +23,6 @@ class MagdalinFelicitaJ:
         self.stack      = ["Python", "Django", "React",
                            "HTML", "CSS", "JavaScript",
                            "MySQL", "VS Code", "GitHub"]
-        self.currently  = "AI-Powered Cloud Engineer Intern @ AICTE"
         self.funFact    = "I trained a CNN to detect cancer 🧬"
         self.motto      = "Detail-oriented. Always adapting. 🚀"
 
@@ -38,35 +37,114 @@ me.say_hi()
 
 ---
 
+<!-- EDUCATION -->
+### 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Year | Score |
+|--------|-------------|------|-------|
+| MCA | SRM University, Kattankulathur | Present | 9.75 CGPA |
+| B.Sc Computer Science | Holy Cross College (Autonomous), Trichy | Completed | 75.13% |
+| H.Sc | Achyuta Academy School, Kurumbapatti | Completed | 71.4% |
+| SSLC | Achyuta Academy Matric Higher Secondary | Completed | 98.4% |
+
+</div>
+
+---
+
+<!-- CERTIFICATIONS -->
+### 📜 Certifications
+
+<div align="center">
+
+| 🏅 | Certification | Details |
+|----|--------------|---------|
+| 📜 | C, C++, Java Certification | IAFC (2024) ISO Certified Institute |
+| 🤖 | Advanced Python – Copilot (2025) | OOP, APIs, Django, Multithreading |
+| 🌐 | Full Stack Web Dev – Ved Upskilling | Industrial Training (2026) |
+| ✨ | Python Full Stack + Gen AI – VigNova Academy | (2026) |
+
+</div>
+
+---
+
+<!-- INTERNSHIPS -->
+### 💼 Internship Experience
+
+<details>
+<summary><b>🔵 AICTE – EduSkills | Python Full Stack Developer Intern</b> · Oct 2025 – Dec 2025 · Virtual</summary>
+
+> `Python` `Django` `React` `MySQL` `Full Stack`
+
+- Completed Python Full Stack Developer Virtual Internship under AICTE – EduSkills program.
+- Built and deployed full-stack web applications using Django backend and React frontend.
+- Strengthened understanding of REST APIs, database design, and deployment workflows.
+
+</details>
+
+<details>
+<summary><b>🟢 HCL | AI@Work Intern</b> · November 2024 · Virtual</summary>
+
+> `AI` `Machine Learning` `HCL`
+
+- Completed internship focused on AI at work concepts with HCL Technologies.
+
+</details>
+
+<details>
+<summary><b>🟡 Synergy | Python Programming Intern</b> · February 2024 · Virtual</summary>
+
+> `Python` `OOP` `Problem Solving`
+
+- Completed Python Programming internship, strengthening core Python and OOP skills.
+
+</details>
+
+---
+
+<!-- FEATURED PROJECTS -->
+### 🚀 Featured Projects
+
+<details>
+<summary><b>🧬 Detection of Leukemia & Multiple Myeloma using DCNN</b></summary>
+
+> `Python` `CNN` `DCNN` `TensorFlow` `Deep Learning`
+
+- Designed and trained a Deep Convolutional Neural Network (DCNN) model in Python.
+- Achieved high-accuracy cancer image classification for Leukemia and Multiple Myeloma.
+- Applied image preprocessing, data augmentation, and model optimization techniques.
+
+</details>
+
+---
+
 <!-- TECH BADGES -->
 <div align="center">
 
 ### 🛠️ Tech Stack
 
-**Languages**
+**🌐 Frontend**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF4500?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-00D8FF?style=for-the-badge&logo=react&logoColor=black)
 
-**Frameworks & Frontend**
+**⚙️ Backend**
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white)
 
-**Cloud & DevOps**
+**🗄️ Database**
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Databases**
+**🔧 Tools**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0098FF?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 </div>
 
@@ -106,114 +184,28 @@ me.say_hi()
 
 ---
 
-<!-- TROPHY WALL -->
-<div align="center">
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Magdalin-18&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin=w4" />
-
-</div>
-
----
-
-<!-- WORK EXPERIENCE -->
-### 💼 Internship Experience
-
-<details>
-<summary><b>🔵 AICTE – EduSkills | Python Full Stack Developer Intern</b> · Oct 2025 – Dec 2025 · Virtual</summary>
-
-> `Python` `Django` `React` `MySQL` `Full Stack`
-
-- Completed Python Full Stack Developer Virtual Internship under AICTE – EduSkills program.
-- Built and deployed full-stack web applications using Django backend and React frontend.
-- Strengthened understanding of REST APIs, database design, and deployment workflows.
-
-</details>
-
-<details>
-<summary><b>🟢 HCL | AI@Work Intern</b> · November 2024 · Virtual</summary>
-
-> `AI` `Machine Learning` `HCL`
-
-- Completed internship focused on AI at work concepts with HCL Technologies.
-
-</details>
-
-<details>
-<summary><b>🟡 Synergy | Python Programming Intern</b> · February 2024 · Virtual</summary>
-
-> `Python` `OOP` `Problem Solving`
-
-- Completed Python Programming internship, strengthening core Python and OOP skills.
-
-</details>
-
----
-
-<!-- FEATURED PROJECTS -->
-### 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Stack | Highlights |
-|--------|-------|------------|
-| [🧬 Leukemia & Myeloma Detection](https://github.com/Magdalin-18) | Python · CNN · DCNN · TensorFlow | Designed & trained a Deep CNN model for high-accuracy cancer image classification |
-
-</div>
-
----
-
-<!-- ACHIEVEMENTS -->
-### 🎯 Achievements & Certifications
-
-<div align="center">
-
-| 🏅 | Achievement | Details |
-|----|-------------|---------|
-| 🎓 | MCA – SRM University | 9.75 CGPA (Current) |
-| 🥇 | B.Sc Computer Science – Holy Cross College | 75.13% |
-| 📜 | C, C++, Java Certification | IAFC (2024) ISO Certified Institute |
-| 🤖 | Advanced Python – Copilot (2025) | OOP, APIs, Django, Multithreading |
-| 🌐 | Full Stack Web Dev – Ved Upskilling | Industrial Training (2026) |
-| ✨ | Python Full Stack + Gen AI – VigNova Academy | (2026) |
-
-</div>
-
----
-
-<!-- EDUCATION + CURRENTLY LEARNING + FOOTER -->
-### 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|--------|-------------|------|-------|
-| MCA | SRM University, Kattankulathur | Present | 9.75 CGPA |
-| B.Sc Computer Science | Holy Cross College (Autonomous), Trichy | Completed | 75.13% |
-| H.Sc | Achyuta Academy School, Kurumbapatti | Completed | 71.4% |
-| SSLC | Achyuta Academy Matric Higher Secondary | Completed | 98.4% |
-
-</div>
-
 ### 🌱 Currently Learning
 
 ```
-🚀 Topic → AI-Powered Cloud Engineering (AWS Educate)
 🐍 Topic → Advanced Python · Django REST APIs
 ⚛️  Topic → React · Full Stack Integration
 ```
 
+### 🗣️ Languages
+
+![Tamil](https://img.shields.io/badge/Tamil-FF6B6B?style=for-the-badge&logoColor=white)
+![English](https://img.shields.io/badge/English-4ECDC4?style=for-the-badge&logoColor=white)
+
 ---
 
-<!-- FOOTER WAVE -->
+<!-- FOOTER -->
 <div align="center">
 
 ### 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/magdalin-felicita-j-704b84342)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Magdalin-18)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:magfelz18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/magdalin-felicita-j-704b84342)
+[![GitHub](https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Magdalin-18)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magfelz18@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Magdalin-18&color=70a5fd&style=flat-square)
 
